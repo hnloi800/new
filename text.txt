@@ -1,11 +1,12 @@
 Noi dung dc tao boi hnloi800@gmail.com
 
--- insert --
-exit
+Noi dung duoc sua tren nhanh develop1711
 
 
 
-cmd save
+
+
+
 
 
 
